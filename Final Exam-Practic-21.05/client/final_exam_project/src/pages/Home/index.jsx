@@ -7,6 +7,7 @@ const Home = () => {
     <main>
       <section>
         <div className={styles["home-div"]}>
+          
         </div>
       </section>
     </main>
